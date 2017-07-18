@@ -1,6 +1,8 @@
 100 shell script examples
 ====================================
 
+gitpush.sh - scriptul expediaza modificarile facute depozitului de cod pe site-ul GITHUB si afiseaza data la care acesta a fost modificat.
+
 This is archive of shell scripts that i found on the interenet long time ago. I'm not the author. Original website is located here: http://intuitive.com/wicked/wicked-cool-shell-script-library.shtml (author wrote a [book](http://intuitive.com/wicked/index.shtml)).
 
 Besides this, you can check out these repos too:
